@@ -3,7 +3,7 @@
 
 
 // tslint:disable-next-line:no-var-requires
-const Curry = require('bs-platform/lib/es6/curry.js');
+const Curry = require('rescript/lib/es6/curry.js');
 
 // tslint:disable-next-line:no-var-requires
 const UncurriedBS = require('./Uncurried.bs');
