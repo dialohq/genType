@@ -7,7 +7,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "^4.0.3",
-    "reason-react": "^0.9.1"
+    "reason-react": "^0.11.0"
   },
   "scripts": {
     "start": "node ../run_bsb.js -make-world -w",
